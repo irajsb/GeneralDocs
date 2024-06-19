@@ -28,7 +28,10 @@ To use this plugin, follow these steps:
 4. In your Actor, override the Initialize foliage event (called when the actor is spawned) with minimal behavior.
 
 ![Initialize Foliage](Init.png)
-
+# Constraint foliage
+Constraint foliage is a kind of tree/ foliage that can bend by force.  
+Constraint foliage is same process but make your Actor child of ConstraintedFoliage instead of 
+BaseInteractFoliageActor . Make Sure your foliage doesn't initially collide with static world around it otherwise it will move violently.
 # Understanding Params and Functions
 
 ## Foliage Component:
