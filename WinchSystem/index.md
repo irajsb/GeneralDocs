@@ -20,7 +20,7 @@ The advanced cable connects two objects using a chain of collisions. This physic
 ![](./Images/3.png)
 4. Call pull or extend function to interact with your winches.
 
-
+For best results disable sleep on both vehicles.
 
 # Params & Settings
 
