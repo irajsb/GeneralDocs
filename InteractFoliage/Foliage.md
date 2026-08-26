@@ -14,8 +14,10 @@ Here are some example behaviors that can be achieved with this plugin:
 # Quick Start
 
 
-### [Click here for Example Project !](https://aurelion.net/Packages/FoliageInteract.zip)
+### [Click here for Fully Functional Example Project !](https://aurelion.net/Packages/FoliageInteract.zip)
 To use this plugin, follow these steps:
+
+Requirements: Make sure you have a world that has foliage
 
 1. Create a Blueprint of type BaseInteractFoliageActor and one blueprint of type InteractiveFoliageComp.
 
