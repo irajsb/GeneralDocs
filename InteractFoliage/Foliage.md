@@ -1,4 +1,4 @@
-This plugin is designed to enhance the interaction with foliage in your game. It allows you to detect and hide instances of foliage and replace them with user-defined Blueprint counterparts. This can lead to more efficient and seamless interactions in your game.
+This plugin is designed to enhance the interaction with foliage in your game. It allows you to detect and hide instances of foliage and replace them with user-defined Blueprint counterparts. This allows you to benefit from instanced foliage while being able to attach behaviour to foliage.
 
 The plugin supports taking ownership of the foliage or resetting it back to its initial state once the player gets far away. This feature is designed with ease of use and simplicity in mind.
 
@@ -9,8 +9,12 @@ Here are some example behaviors that can be achieved with this plugin:
 * Vehicles or characters crashing with the trees
 * Constraint trees (included in the plugin and demo), where the player/vehicle can bend the trees
 
+
+
 # Quick Start
 
+
+### [Click here for Example Project !](https://aurelion.net/Packages/FoliageInteract.zip)
 To use this plugin, follow these steps:
 
 1. Create a Blueprint of type BaseInteractFoliageActor and one blueprint of type InteractiveFoliageComp.
